@@ -1,0 +1,3 @@
+Resposta pergunta 12:
+
+C) Polimorfismo
